@@ -1,0 +1,21 @@
+,,0
+Salmonellosis(non-enteric fevers),monthly_mean_of_min_daily_temperature_celcius,0.2997838960903353
+monthly_mean_of_min_daily_temperature_celcius,Salmonellosis(non-enteric fevers),0.2997838960903353
+Salmonellosis(non-enteric fevers),wet_bulb_temperature,0.2748688264951052
+wet_bulb_temperature,Salmonellosis(non-enteric fevers),0.2748688264951052
+total_rainfall,Pertussis,0.2517002327021298
+Pertussis,total_rainfall,0.2517002327021298
+Measles,no_of_rainy_days,0.2411222316471662
+no_of_rainy_days,Measles,0.2411222316471662
+maximum_rainfall_in_a_day,Pertussis,0.24050369750622305
+Pertussis,maximum_rainfall_in_a_day,0.24050369750622305
+total_rainfall,Measles,0.2377430205921468
+Measles,total_rainfall,0.2377430205921468
+mean_rh,Malaria,0.23343995519389357
+Malaria,mean_rh,0.23343995519389357
+monthly_mean_of_min_daily_temperature_celcius,Acute Viral hepatitis B,0.22760581167083893
+Acute Viral hepatitis B,monthly_mean_of_min_daily_temperature_celcius,0.22760581167083893
+HepatitisA_Total,mean_rh,0.2206998004392982
+mean_rh,HepatitisA_Total,0.2206998004392982
+mean_rh,Measles,0.2152219893825207
+Measles,mean_rh,0.2152219893825207
